@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dqy@10.15.196.201:2222 password (1)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="dqy@10.15.196.201:2222">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/dqy/Code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dqy@10.15.196.201:2222 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/dqy/Code/VAE-MPS-CUDA" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dqy@10.15.196.201:2222 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/dqy/Code/VAE-MPS-CUDA" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
